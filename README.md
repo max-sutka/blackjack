@@ -4,7 +4,7 @@ A simple command-line blackjack game I built in Python. Nothing fancy — just d
 
 ## Why I made this
 
-I wanted a small project to practice basic game logic in Python: tracking state (chips, hands, scores), handling user input without crashing, and dealing with edge cases like aces being worth 1 or 11 depending on the hand. Blackjack turned out to be a good fit for that.
+I needed a small project for a class to practice basic game logic in Python: tracking state (chips, hands, scores), handling user input without crashing, and dealing with edge cases like aces being worth 1 or 11 depending on the hand. Blackjack turned out to be a good fit for that.
 
 ## How to play
 
