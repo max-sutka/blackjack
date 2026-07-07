@@ -1,6 +1,6 @@
 # Blackjack (Python CLI)
 
-A simple command-line blackjack game I built in Python. Nothing fancy — just deal cards, hit or stand, try not to bust, and keep your chips.
+A simple command-line blackjack game I built in Python. Nothing fancy. Just deal cards, hit or stand, try not to bust, and keep your chips.
 
 ## Why I made this
 
@@ -22,9 +22,9 @@ You'll start with 500 chips. Each round:
 4. The dealer plays according to standard rules (draws until 17+)
 5. Win, lose, or push based on who's closer to 21 without busting
 
-Get a blackjack (21 on the deal) and you get paid out 3:2 automatically.
+Get a blackjack (21 on the deal), and you get paid out 3:2 automatically.
 
-After each round you'll be asked if you want to play again — enter `y` to keep going, anything else to quit.
+After each round, you'll be asked if you want to play again. Enter `y` to keep going, anything else to quit.
 
 ## Rules it follows
 
@@ -35,9 +35,9 @@ After each round you'll be asked if you want to play again — enter `y` to keep
 
 ## Notes / known limitations
 
-- This is a single-deck-per-shuffle style setup — cards aren't tracked as "removed" from the deck, so in theory the same card could come up more than once in a hand. Not exactly casino-accurate, but it keeps the logic simple.
+- This is a single-deck-per-shuffle style setup. Cards aren't tracked as "removed" from the deck, so in theory the same card could come up more than once in a hand. Not exactly casino-accurate, but it keeps the logic simple.
 - No splitting, doubling down, or insurance yet. Could be fun to add later.
-- Everything runs in the terminal — no GUI.
+- Everything runs in the terminal. No GUI.
 
 ## Possible future additions
 
