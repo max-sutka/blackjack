@@ -51,5 +51,3 @@ After each round you'll be asked if you want to play again — enter `y` to keep
 Just Python 3 — no external libraries needed.
 
 ---
-
-Feel free to fork it, break it, or tell me what I did wrong. It's a learning project, so I'm sure there's room to improve.
